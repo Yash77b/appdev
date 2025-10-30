@@ -4,3 +4,6 @@
 void clearScreen(void);
 void gotoXY(int X, int y);
 void setFGcolor(int c);
+
+
+//updated
